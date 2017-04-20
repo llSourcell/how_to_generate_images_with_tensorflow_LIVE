@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the code for [this]() video on Youtube by Siraj Raval as part of the Deep Learning Nanodegree with Udacity. We're going to build a variational autoencoder that generates [MNIST](http://yann.lecun.com/exdb/mnist/) digits after training on them. We could extend the code to generate any type of image, just replace the training data with your choice of dataset.
+This is the code for [this](https://www.youtube.com/watch?v=iz-TZOEKXzA) video on Youtube by Siraj Raval as part of the Deep Learning Nanodegree with Udacity. We're going to build a variational autoencoder that generates [MNIST](http://yann.lecun.com/exdb/mnist/) digits after training on them. We could extend the code to generate any type of image, just replace the training data with your choice of dataset.
 
 ## Dependencies
 
